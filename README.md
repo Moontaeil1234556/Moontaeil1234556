@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Moontaeil1234556.
-- Meu nome é Fernanda Siqueira
-
+  
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
